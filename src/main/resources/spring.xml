@@ -43,7 +43,9 @@
     <import resource="classpath:resources/spring-druid.xml"/>
     <import resource="classpath:resources/spring-mvc.xml"/>
     <import resource="classpath:resources/spring-quartz.xml"/>
-    <import resource="classpath:resources/spring-util.xml"/>
     <import resource="classpath:resources/spring-datasource.xml"/>
+    <!-- 
+    <import resource="classpath:resources/spring-util.xml"/>
+     -->
 
 </beans>

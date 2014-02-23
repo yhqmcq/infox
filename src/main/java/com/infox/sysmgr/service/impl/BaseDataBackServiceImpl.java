@@ -20,8 +20,7 @@ import com.infox.sysmgr.entity.base.BaseField;
 import com.infox.sysmgr.service.BaseDataBackServiceI;
 
 @Repository
-public class BaseDataBackServiceImpl implements
-		BaseDataBackServiceI {
+public class BaseDataBackServiceImpl implements BaseDataBackServiceI {
 	
 	@Autowired
 	private JdbcDaoSupportUtil jdsu ;
